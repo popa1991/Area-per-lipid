@@ -1,6 +1,2 @@
 # Area-per-lipid
-Calculate Area per Lipid
-Input : X - Y dimention
-      : Number of lipid per leaflet
-      : Frames
-      
+Calculate Area per Lipid based on X-Y dimensions. 
